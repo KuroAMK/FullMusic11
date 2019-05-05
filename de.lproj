@@ -1,0 +1,25 @@
+{
+"Enable" = "Aktivieren";
+"Using ColorFlow4" = "Verwendet ColorFlow4";
+"Colorize Status Bar" = "Statusleiste färben";
+"Hide an Arrow on Music App" = "Pfeile in der Musikanwendung verstecken";
+"Draw Borders for Shuffle/Repeat Button" = "Ränder um die Shuffle-/Widerholschaltfläche zeichen";
+"Hide Buttons on Now Playing View" = "Schaltflächen in 'Jetzt läuft'-Ansicht verstecken";
+"Move Elements" = "Elemente bewegen";
+"Set Top Inset for Now Playing" = "'Jetzt läuft' nach oben verlagern";
+"Move Time Control" = "Zeitsteuerung bewegen";
+"Move Shuffle and Repeat Buttons" = "Shuffle- und Wiederholschaltflächen bewegen";
+"Report Bugs or Contact" = "Fehler melden oder Entwickler kontaktieren";
+"Buy me a coffee?" = "Kaufst Du mir einen Kaffee?";
+"Respring  (Recommended)" = "Respring  (Empfohlen)";
+"Reset All Settings" = "Alle Einstellungen zurücksetzen";
+"ICONATOR" = "Iconator11では、列の追加などホームスクリーンをカスタマイズ出来ます。";
+"Move Volume Bar and Artwork" = "Lautstärkeleiste und Artwork bewegen";
+"Move Song Title" = "Songtitel bewegen";
+"Move Subtitle" = "Untertiel bewegen";
+"Move Control Buttons" = "Kontrollschaltflächen bewegen";
+"Move Volume Bar" = "Lautstärkeleiste bewegen";
+"Hide Add Button" = "'Hinzufügen'-Schaltfläche verstecken";
+"Move Add Button" = "'Hinzufügen'-Schaltfläche bewegen";
+"Are you sure to reset all the preferences? This cannot be undone." = "Bist Du dir sicher, dass Du alle Einstellungen zurücksetzen möchtest? Dies kann nicht rückgängig gemacht werden.
+}
