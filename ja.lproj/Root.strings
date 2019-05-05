@@ -1,0 +1,24 @@
+{
+"Enable" = "有効化";
+"Using ColorFlow4" = "ColorFlow4連携";
+"Colorize Status Bar" = "ステータスバーをカラフルに";
+"Hide an Arrow on Music App" = "再生画面上の矢印を隠す";
+"Draw Borders for Shuffle/Repeat Button" = "シャッフル/リピートボタンに線を描画";
+"Hide Lower Buttons on Now Playing View" = "再生画面下部のボタンを隠す";
+"Move Elements" = "要素移動";
+"Set Top Inset for Now Playing (Glitchy)" = "再生画面を移動 (バグあり)";
+"Move Time Control" = "時間のコントロールバーを移動";
+"Move Shuffle and Repeat Buttons" = "シャッフル/リピートボタンを移動";
+"Report Bugs or Contact" = "連絡先";
+"Buy me a coffee?" = "寄付していただけませんか？";
+"Respring  (Recommended)" = "リスプリング (推奨)";
+"Reset All Settings" = "全ての設定をリセット";
+"ICONATOR" = "Iconator11では、列の追加などホームスクリーンをカスタマイズ出来ます。";
+"Move Volume Bar and Artwork" = "音量バーとアートワークを移動";
+"Move Song Title" = "曲名を移動";
+"Move Subtitle" = "アーティスト名/アルバム名を移動";
+"Move Control Buttons" = "コントロールボタンを移動";
+"Move Volume Bar" = "音量バーを移動";
+"Move Now Playing View" = "再生画面上部を移動";
+"Are you sure to reset all the preferences? This cannot be undone." = "すべての設定をリセットしますか？元に戻すことはできません。";
+}
