@@ -1,25 +1,32 @@
+"Hide AirPlay Button on Now Playing View" = "AirPlay in der aktuellen Wiedergabe verstecken";
+"Hide Context Button on Now Playing View" = "Kontext in der aktuellen Wiedergabe verstecken";
+"Set Top Inset for Now Playing (Glitchy)" = "Aktuelle Wiedergabe nach oben verlagern (fehleranfällig)";
+"Move Now Playing View" = "Aktuelle Wiedergabe verschieben."
+
+
+
 {
-"Enable" = "Enable";
-"Using ColorFlow4" = "Using ColorFlow4";
-"Colorize Status Bar" = "Colorize Status Bar";
-"Hide an Arrow on Music App" = "Hide an Arrow on Music App";
-"Draw Borders for Shuffle/Repeat Button" = "Draw Borders for Shuffle/Repeat Button";
-"Hide Buttons on Now Playing View" = "Hide Buttons on Now Playing View";
-"Move Elements" = "Move Elements";
-"Set Top Inset for Now Playing" = "Set Top Inset for Now Playing";
-"Move Time Control" = "Move Time Control";
-"Move Shuffle and Repeat Buttons" = "Move Shuffle and Repeat Buttons";
-"Report Bugs or Contact" = "Report Bugs or Contact";
-"Buy me a coffee?" = "Buy me a coffee?";
-"Respring  (Recommended)" = "Respring  (Recommended)";
-"Reset All Settings" = "Reset All Settings";
-"ICONATOR" = "Iconator11では、列の追加などホームスクリーンをカスタマイズ出来ます。";
-"Move Volume Bar and Artwork" = "Move Volume Bar and Artwork";
-"Move Song Title" = "Move Song Title";
-"Move Subtitle" = "Move Subtitle";
-"Move Control Buttons" = "Move Control Buttons";
-"Move Volume Bar" = "Move Volume Bar";
-"Hide Add Button" = "Hide Add Button";
-"Move Add Button" = "Move Add Button";
-"Are you sure to reset all the preferences? This cannot be undone." = "Are you sure to reset all the preferences? This cannot be undone.";
+"Enable" = "Aktivieren";
+"Using ColorFlow4" = "ColorFlow4 wird gleichzeitig verwendet";
+"Colorize Status Bar" = "Statusleiste färben";
+"Hide an Arrow on Music App" = "Pfeile in der Musikanwendung verstecken";
+"Draw Borders for Shuffle/Repeat Button" = "Shuffle-/Wiederholschaltfläche umranden";
+"Hide Buttons on Now Playing View" = "Schaltflächen in der aktuellen Widergabe verstecken";
+"Move Elements" = "Elemente verschieben";
+"Set Top Inset for Now Playing" = "Aktuelle Wiedergabe nach oben verlagern (fehleranfällig)";
+"Move Time Control" = "Zeitsteuerung verschieben";
+"Move Shuffle and Repeat Buttons" = "Shuffle- und Wiederholschaltflächen verschieben";
+"Report Bugs or Contact" = "Fehler melden oder Entwickler kontaktieren";
+"Buy me a coffee?" = "Kaufst Du mir einen Kaffee?";
+"Respring  (Recommended)" = "Respring  (Empfohlen)";
+"Reset All Settings" = "Alle Einstellungen zurücksetzen";
+"ICONATOR" = "Iconator11 erlaubt dir deinen Homescreen anzupassen. (Symbolgröße verängern, extra Reihen hinzufügen und vieles mehr!";
+"Move Volume Bar and Artwork" = "Lautstärkeleiste und Artwork verschieben";
+"Move Song Title" = "Songtitel verschieben";
+"Move Subtitle" = "Untertitel verschieben";
+"Move Control Buttons" = "Kontrollschaltflächen verschieben";
+"Move Volume Bar" = "Lautstärkeleiste verschieben";
+"Hide Add Button" = "'Hinzufügen'-Schaltfläche verstecken";
+"Move Add Button" = "'Hinzufügen'-Schaltfläche verschieben";
+"Are you sure to reset all the preferences? This cannot be undone." = "Bist du sicher, dass alle Einstellungen zurückgesetzt werden sollen? Dies kann nicht rückgängig gemacht werden.
 }
