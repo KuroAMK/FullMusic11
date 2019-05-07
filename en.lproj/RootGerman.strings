@@ -1,0 +1,32 @@
+"Hide AirPlay Button on Now Playing View" = "AirPlay in der aktuellen Wiedergabe verstecken";
+"Hide Context Button on Now Playing View" = "Kontext in der aktuellen Wiedergabe verstecken";
+"Set Top Inset for Now Playing (Glitchy)" = "Aktuelle Wiedergabe nach oben verlagern (fehleranfällig)";
+"Move Now Playing View" = "Aktuelle Wiedergabe verschieben";
+
+
+
+{
+"Enable" = "Aktivieren";
+"Using ColorFlow4" = "ColorFlow4 wird gleichzeitig verwendet";
+"Colorize Status Bar" = "Statusleiste färben";
+"Hide an Arrow on Music App" = "Pfeile in der Musikanwendung verstecken";
+"Draw Borders for Shuffle/Repeat Button" = "Shuffle-/Wiederholschaltfläche umranden";
+"Hide Buttons on Now Playing View" = "Schaltflächen in der aktuellen Wiedergabe verstecken";
+"Move Elements" = "Elemente verschieben";
+"Set Top Inset for Now Playing" = "Aktuelle Wiedergabe nach oben verlagern (fehleranfällig)";
+"Move Time Control" = "Zeitsteuerung verschieben";
+"Move Shuffle and Repeat Buttons" = "Shuffle- und Wiederholschaltflächen verschieben";
+"Report Bugs or Contact" = "Fehler melden oder Entwickler kontaktieren";
+"Buy me a coffee?" = "Kaufst Du mir einen Kaffee?";
+"Respring  (Recommended)" = "Respring  (Empfohlen)";
+"Reset All Settings" = "Alle Einstellungen zurücksetzen";
+"ICONATOR" = "Iconator11 erlaubt es dir, deinen Homescreenbnach deinen Wünschen anzupassen. (Symbolgröße verändern, zusätzliche Reihen hinzufügen und vieles mehr!";
+"Move Volume Bar and Artwork" = "Lautstärkeleiste und Artwork verschieben";
+"Move Song Title" = "Songtitel verschieben";
+"Move Subtitle" = "Untertitel verschieben";
+"Move Control Buttons" = "Kontrollschaltflächen verschieben";
+"Move Volume Bar" = "Lautstärkeleiste verschieben";
+"Hide Add Button" = "'Hinzufügen'-Schaltfläche verstecken";
+"Move Add Button" = "'Hinzufügen'-Schaltfläche verschieben";
+"Are you sure to reset all the preferences? This cannot be undone." = "Bist du sicher, dass alle Einstellungen zurückgesetzt werden sollen? Dies kann nicht rückgängig gemacht werden.
+}
